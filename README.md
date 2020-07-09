@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello 👋
+
+I am a programmer dedicated to learning new things, new knowledge inspire me to grow every day.
+I have knowledge in React.js and Vue.js, currently learning C# language.
+
+I love to go out with my friends and my family for a beer.
 
 <!--
 **FernandoRogelin/FernandoRogelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
