@@ -2,8 +2,7 @@
 
 I am a programmer dedicated to learning new things, new knowledge inspire me to grow every day, I have knowledge in React.js and Vue.js, currently learning C# language :book:.
 
-I live in Brazil, Porto Alegre - RS.
-I love to go out with my friends and my family to drink a beer and talk about many things, so invite me to drink a beer :smile:.
+I live in Brazil, Porto Alegre - RS, love to go out with my friends and my family to drink a beer and talk about many things, so invite me to drink a beer :smile:.
 
 <!--
 **FernandoRogelin/FernandoRogelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
