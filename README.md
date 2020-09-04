@@ -4,7 +4,7 @@ I am a programmer dedicated to learning new things, new knowledge inspire me to 
 
 I live in Brazil, Porto Alegre - RS, love to go out with my friends and my family to drink a beer and talk about many things, so invite me to drink a beer :smile:.
 
-[Curriculum-Web](www.fernandorogelin.com)  :file_cabinet:
+:file_cabinet: [Curriculum-Web](www.fernandorogelin.com)
 
 <!--
 **FernandoRogelin/FernandoRogelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
