@@ -5,7 +5,7 @@ I am a programmer dedicated to learning new things, new knowledge inspire me to 
 I live in Brazil, Porto Alegre - RS, love to go out with my friends and my family to drink a beer and talk about many things, so invite me to drink a beer :smile:.
 
 <p align="center">
-  <a href="https://www.fernandorogelin.com/">Curriculum-Web</a>
+  :file_cabinet: <a href="https://www.fernandorogelin.com/">Curriculum-Web</a>
 </p>
 
 <!--
