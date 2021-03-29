@@ -7,20 +7,20 @@ I live in Brazil, Porto Alegre - RS, love to go out with my friends and my famil
 <p align="center">
   :file_cabinet: <a href="https://www.fernandorogelin.com/">Curriculum-Web</a> •
   <a href="https://twitter.com/intent/follow?screen_name=Nando_Rogelin&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Nando_Rogelin?label=%40Nando_Rogelin&style=social" alt=""></a> •
-  <a href="https://twitter.com/Nando_Rogelin">Twitter</a>
+  <a href="https://twitter.com/Nando_Rogelin">Twitter</a> •
+  <a href="https://www.linkedin.com/in/fernando-rogelin">LinkedIn</a>
 </p>
+
+---
+
+- 🔭 I’m currently working on investment projects
+- 🌱 I’m currently learning C# language and the new things in JS
+- 👯 I'm collaborate with a lot of projects, like [Brazilian utils](https://github.com/brazilian-utils/brazilian-utils)
+- 📫 How to reach me: [Fernando Rogelin](https://www.fernandorogelin.com/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to practique sports, like footbal, voleiball...
 
 <!--
 **FernandoRogelin/FernandoRogelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
