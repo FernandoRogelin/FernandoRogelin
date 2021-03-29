@@ -11,8 +11,6 @@ I live in Brazil, Porto Alegre - RS, love to go out with my friends and my famil
   <a href="https://www.linkedin.com/in/fernando-rogelin">LinkedIn</a>
 </p>
 
----
-
 - 🔭 I’m currently working on investment projects
 - 🌱 I’m currently learning C# language and the new things in JS
 - 👯 I'm collaborate with a lot of projects, like [Brazilian utils](https://github.com/brazilian-utils/brazilian-utils)
