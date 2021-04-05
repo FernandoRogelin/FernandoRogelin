@@ -6,9 +6,9 @@ I live in Brazil, Porto Alegre - RS, love to go out with my friends and my famil
 
 <p align="center">
   :file_cabinet: <a href="https://www.fernandorogelin.com/">Curriculum-Web</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=Nando_Rogelin&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Nando_Rogelin?label=%40Nando_Rogelin&style=social" alt=""></a> •
-  <a href="https://twitter.com/Nando_Rogelin">Twitter</a> •
-  <a href="https://www.linkedin.com/in/fernando-rogelin">LinkedIn</a>
+  <a href="https://twitter.com/intent/follow?screen_name=Nando_Rogelin&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Nando_Rogelin?label=%40Nando_Rogelin&style=social" alt="Follows twiiter"></a> •
+  <a href="https://twitter.com/Nando_Rogelin"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 alt="Twitter image"></a> •
+  <a href="https://www.linkedin.com/in/fernando-rogelin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 alt="LinkedIin image"></a>
 </p>
 
 - 🔭 I’m currently working on investment projects
