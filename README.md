@@ -11,10 +11,15 @@ I live in Brazil, Porto Alegre - RS, love to go out with my friends and my famil
 </p>
 
  🔭 I’m currently working on investment projects
+ 
  🌱 I’m currently learning C# language and the new things in JS
+ 
  👯 I'm collaborate with a lot of projects, like [Brazilian utils](https://github.com/brazilian-utils/brazilian-utils)
+ 
  📫 How to reach me: [Fernando Rogelin](https://www.fernandorogelin.com/)
+ 
  😄 Pronouns: he/him
+ 
  ⚡ Fun fact: I like to practique sports, like footbal, voleiball...
 
 <!--
