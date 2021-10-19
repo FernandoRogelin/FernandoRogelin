@@ -10,12 +10,12 @@ I live in Brazil, Porto Alegre - RS, love to go out with my friends and my famil
   <a href="https://www.linkedin.com/in/fernando-rogelin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 alt="LinkedIin image"></a>
 </p>
 
-- 🔭 I’m currently working on investment projects
-- 🌱 I’m currently learning C# language and the new things in JS
-- 👯 I'm collaborate with a lot of projects, like [Brazilian utils](https://github.com/brazilian-utils/brazilian-utils)
-- 📫 How to reach me: [Fernando Rogelin](https://www.fernandorogelin.com/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to practique sports, like footbal, voleiball...
+ 🔭 I’m currently working on investment projects
+ 🌱 I’m currently learning C# language and the new things in JS
+ 👯 I'm collaborate with a lot of projects, like [Brazilian utils](https://github.com/brazilian-utils/brazilian-utils)
+ 📫 How to reach me: [Fernando Rogelin](https://www.fernandorogelin.com/)
+ 😄 Pronouns: he/him
+ ⚡ Fun fact: I like to practique sports, like footbal, voleiball...
 
 <!--
 **FernandoRogelin/FernandoRogelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
