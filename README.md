@@ -1,7 +1,7 @@
 # Hi 👋, I'm Fernando Rogelin and welcome to my github profile!
 
 <p>
-  I am a programmer dedicated to learning new things, new knowledge inspire me to grow every day, I have knowledge in React.js and Vue.js, currently learning C# language :book:.
+  I am a programmer dedicated to learning new things, new knowledge inspire me to grow every day, I have knowledge in React.js and Vue.js, always learning new JavaScript/TypeScript stuff :book:.
 
   I live in Brazil, Porto Alegre - RS, love to go out with my friends and my family to drink a beer and talk about many things, so invite me to drink a beer :smile:.
 </p>
