@@ -1,4 +1,4 @@
-# Hi 👋, I'm Fernando Rogelin and welcome to my github profile!
+# Hi 👋, Welcome to my github profile!
 
 <p>
   My name's Fernando Rogelin, I've been working as Front-end Engineer since 2018 and I made a lot of projects in my career.
