@@ -1,7 +1,11 @@
 # Hi 👋, I'm Fernando Rogelin and welcome to my github profile!
 
 <p>
-  I am a programmer dedicated to learning new things, new knowledge inspire me to grow every day, I have knowledge in React.js and Vue.js, always learning new JavaScript/TypeScript stuff :book:.
+  My name's Fernando Rogelin, I've been working as Front-end Engineer since 2018 and I made a lot of projects in my career.
+</p>
+
+<p>
+  I love my profession as Front (sometimes I study a little bit about Back-end too), so every day I try to study very much about new stuffs and how can I improve my skills. I've made projects like Internet Bankings, Administrative painels, Investment Portfolios and so on.
 </p>
 
 <div align="center">
