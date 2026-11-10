@@ -1,11 +1,7 @@
 # Hi 👋, Welcome to my github profile!
 
 <p>
-  My name's Fernando Rogelin, I've been working as Front-end Engineer since 2018 and I made a lot of projects in my career.
-</p>
-
-<p>
-  I love my profession as Front (sometimes I study a little bit about Back-end too), so every day I try to study very much about new stuffs and how can I improve my skills. I've made projects like Internet Bankings, Administrative painels, Investment Portfolios and so on.
+  Senior Frontend Engineer with 8+ years of experience building scalable, high-performance web applications with Vue.js, React, and TypeScript, now delivering features end to end with Laravel and MySQL.
 </p>
 
 <div align="center">
