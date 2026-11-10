@@ -4,6 +4,10 @@
   Senior Frontend Engineer with 8+ years of experience building scalable, high-performance web applications with Vue.js, React, and TypeScript, now delivering features end to end with Laravel and MySQL.
 </p>
 
+<p>
+  My foundation is front-end: architecture, design systems, automated testing, and web performance. I've led front-end teams, mentored developers, cut pipeline build time by 50% by migrating from Webpack to Vite, and built Playwright E2E suites that saved 5+ hours of regression testing.
+</p>
+
 <div align="center">
   <a href="https://github.com/fernandorogelin" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandorogelin&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
@@ -17,7 +21,6 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
